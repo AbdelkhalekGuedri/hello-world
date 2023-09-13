@@ -15,7 +15,7 @@
   <name>Webapp</name>
   <description>Webapp.</description>
 
- /* <build>
+  <build>
     <finalName>${project.artifactId}</finalName>
 
     <plugins>
@@ -24,7 +24,7 @@
         <artifactId>jetty-maven-plugin</artifactId>
       </plugin>
     </plugins>
-  </build>*/
+  </build>
 
   <dependencies>
 
